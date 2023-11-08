@@ -162,8 +162,7 @@ SSH (22)    ----> anywhere
  `Description`  : ---
  `Tier`         : Standard
  `Type`         : SecureString   (So AWS encrypts sensitive data using KMS)
- `Data type`    : text
- `Value`        : clarusway_1234
+ `Value`        : Clarusway1234
 
 - Create parameter for `database username`  :
 
@@ -180,7 +179,6 @@ SSH (22)    ----> anywhere
  `Description`  : ---
  `Tier`         : Standard
  `Type`         : SecureString   (So AWS encrypts sensitive data using KMS)
- `Data type`    : text
  `Value`        : xxxxxxxxxxxxxxxxxxxx
 ```
 
